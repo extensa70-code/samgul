@@ -1,3 +1,6 @@
-# 삼국쟁패 — 천하와 해동
+# 게임 모음
 
-아이폰 사파리로 https://extensa70-code.github.io/samgul/ 을 열고 공유 → 홈 화면에 추가.
+- 삼국쟁패 — https://extensa70-code.github.io/samgul/
+- 문명: 시대의 연대기 — https://extensa70-code.github.io/samgul/civ/
+
+아이폰 사파리로 주소를 열고 공유 → 홈 화면에 추가. 아이콘으로 한 번 실행해 두면 비행기 모드에서도 실행됩니다.
